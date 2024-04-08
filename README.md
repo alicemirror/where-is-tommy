@@ -20,16 +20,11 @@ to a Node.js server endpoint.
 "client" is the folder that contains the React app. App.js is the main React file, 
 which fetches the /api endpoint from the Node.js server and populates the "state" of the app.
 
-Author: Furio Piccinini [Email](furiopiccinini@gmail.com)
-Date: Apr 2022
-Version: 0.8.6
-License: Apache
-
 ## Node.js server start
 In the "api" directory, you can run:
 ### `npm install`
 This will install all the dependencies.
-Than you can run:
+Then you can run:
 
 ### `npm start`
 
